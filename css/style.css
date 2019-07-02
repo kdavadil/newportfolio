@@ -282,9 +282,9 @@ a.active {
 ==================================================*/
 
 #home {
-    background: url(../img/home-bg-2.jpg);
+    background: url(../img/computer-767776.jpg);
     background-size: cover;
-    height: 100vh;
+    height: auto;
 }
 
 .table-cell {
